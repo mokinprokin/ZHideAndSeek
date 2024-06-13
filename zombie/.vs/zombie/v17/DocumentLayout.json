@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\scripts\\player\\ruleshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\ruleshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\scripts\\customnetworkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customnetworkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\scripts\\rulesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rulesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\scripts\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|d:\\programming_soft\\unity\\unity_versions\\zombie\\assets\\scripts\\canvashidder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvashidder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|d:\\programming_soft\\unity\\unity_versions\\zombie\\assets\\scripts\\canvashidder2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvashidder2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C09030-2ECE-10F4-207E-D5C5756CC2FF}|Mirror.Examples.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\mirror\\examples\\multiplematches\\scripts\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C09030-2ECE-10F4-207E-D5C5756CC2FF}|Mirror.Examples.csproj|solutionrelative:assets\\mirror\\examples\\multiplematches\\scripts\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|D:\\programming_soft\\Unity\\unity_versions\\zombie\\assets\\scripts\\updateslidervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\updateslidervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateSliderValue.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\UpdateSliderValue.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UpdateSliderValue.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\UpdateSliderValue.cs",
+              "RelativeToolTip": "Assets\\scripts\\UpdateSliderValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:52:20.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CanvasController.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\Mirror\\Examples\\MultipleMatches\\Scripts\\CanvasController.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Examples\\MultipleMatches\\Scripts\\CanvasController.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\Mirror\\Examples\\MultipleMatches\\Scripts\\CanvasController.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Examples\\MultipleMatches\\Scripts\\CanvasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:10:47.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanvasHidder2.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\CanvasHidder2.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CanvasHidder2.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\CanvasHidder2.cs",
+              "RelativeToolTip": "Assets\\scripts\\CanvasHidder2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:15:38.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CanvasHidder.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\CanvasHidder.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CanvasHidder.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\CanvasHidder.cs",
+              "RelativeToolTip": "Assets\\scripts\\CanvasHidder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:15:09.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\player\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\player.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\player\\player.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:22:20.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveSettings.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\SaveSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SaveSettings.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\SaveSettings.cs",
+              "RelativeToolTip": "Assets\\scripts\\SaveSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:05:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RulesManager.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\RulesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\RulesManager.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\RulesManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\RulesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:21:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RulesHelper.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\player\\RulesHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\RulesHelper.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\player\\RulesHelper.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\RulesHelper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:12:18.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomNetworkManager.cs",
+              "DocumentMoniker": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\CustomNetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CustomNetworkManager.cs",
+              "ToolTip": "D:\\programming_soft\\Unity\\unity_versions\\zombie\\Assets\\scripts\\CustomNetworkManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\CustomNetworkManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:20:11.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

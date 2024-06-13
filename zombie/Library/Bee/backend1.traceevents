@@ -1,0 +1,341 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1718264825635387, "dur":2158, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264825637558, "dur":154, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264825637762, "dur":390, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264825638183, "dur":4642, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264825642827, "dur":501317, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264826144147, "dur":393, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264826144742, "dur":2226, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1718264825638458, "dur":4374, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718264825642834, "dur":3276, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718264825646168, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718264825646334, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1718264825646661, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825646830, "dur":215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825647046, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825647193, "dur":469, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825647664, "dur":285, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Mirror.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825647950, "dur":581, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825648532, "dur":219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Mirror.Transports.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825648752, "dur":322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825649075, "dur":242, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Mirror.Components.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825649319, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825649484, "dur":409, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825649894, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Telepathy.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825650036, "dur":217, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825650255, "dur":205, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\SimpleWebTransport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825650461, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Mirror.Authenticators.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825650651, "dur":252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Mirror.Examples.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825650904, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825651111, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825651298, "dur":351, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825651650, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825651809, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\programming_soft\\Unity\\unity_versions\\zombie\\Library\\Bee\\PlayerScriptAssemblies\\kcp2k.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718264825646167, "dur":5940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718264825652987, "dur":143246, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718264825798097, "dur":1890, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718264825798095, "dur":1896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Games/unity/zombie/zombie_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718264825800029, "dur":1254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718264825801288, "dur":342875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825638538, "dur":4309, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825642852, "dur":489, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825643342, "dur":2796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825646138, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1718264825646204, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825659835, "dur":1596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1718264825661462, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825661540, "dur":29879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825691464, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825691544, "dur":3241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825694810, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825694927, "dur":8380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825703406, "dur":3067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Telepathy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825706506, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825706642, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825709893, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825710015, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825713525, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825713635, "dur":25530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825739197, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825739292, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825742240, "dur":11414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825753705, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825753822, "dur":13737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825767582, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825767683, "dur":5324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825773047, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718264825773132, "dur":2449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718264825775620, "dur":12946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1718264825788729, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718264825792094, "dur":352072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825638486, "dur":4351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825642841, "dur":491, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825643332, "dur":2801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825646134, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718264825646185, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825657538, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718264825659534, "dur":29058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825688617, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825688749, "dur":2573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825691351, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825691475, "dur":3236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825694743, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825694827, "dur":9084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/BouncyCastle.Cryptography.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825704013, "dur":3291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Mirror.Transports.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825707375, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825710541, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825710739, "dur":3808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825714577, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825714675, "dur":25799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825740500, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825740666, "dur":11198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825751893, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718264825751977, "dur":3242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825755309, "dur":13474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825768877, "dur":4836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718264825773750, "dur":108058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1718264825881835, "dur":262316, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825638525, "dur":4318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825642844, "dur":502, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825643346, "dur":2790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825648426, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718264825651162, "dur":1930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1718264825653619, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718264825655906, "dur":32753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825688698, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825688780, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825691392, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825694850, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825691485, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825695130, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825695232, "dur":8511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825703762, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825703835, "dur":3270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825707126, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825707217, "dur":2955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825710247, "dur":3952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825714227, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825714342, "dur":27087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825741457, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825741561, "dur":11103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825752692, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825752797, "dur":12860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825765708, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825765829, "dur":3353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825769211, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718264825769288, "dur":4918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718264825774291, "dur":130678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1718264825904989, "dur":239158, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825638569, "dur":4287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825642859, "dur":447, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825643306, "dur":2825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825646166, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825649063, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1718264825650875, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825651574, "dur":1512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1718264825653175, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1718264825655864, "dur":55968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1718264825711871, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825711966, "dur":3575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718264825715570, "dur":231, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825715822, "dur":25582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718264825741438, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825741572, "dur":11345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718264825752949, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825753092, "dur":13307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718264825766438, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825766554, "dur":3245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718264825769827, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718264825769989, "dur":5324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718264825775534, "dur":6865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1718264825782448, "dur":9799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/level1.resS" }}
+,{ "pid":12345, "tid":5, "ts":1718264825792266, "dur":351905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825638638, "dur":4224, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825642866, "dur":552, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825643419, "dur":2703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825647700, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1718264825650459, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825651021, "dur":1839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1718264825653103, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1718264825655013, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie.exe" }}
+,{ "pid":12345, "tid":6, "ts":1718264825656924, "dur":31430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825688386, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825688495, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825690662, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825690753, "dur":3971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825694746, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825694826, "dur":8446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/kcp2k.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825703415, "dur":2993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825706442, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825706547, "dur":3158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825709746, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825709913, "dur":3539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825713487, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825713591, "dur":25128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825738764, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825738891, "dur":2994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825741912, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825742061, "dur":11159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825753247, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825753323, "dur":13001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825766355, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825766436, "dur":3358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825769843, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825769994, "dur":5200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718264825775227, "dur":6679, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718264825781991, "dur":3114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1718264825785169, "dur":4376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1718264825789570, "dur":354572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825638683, "dur":4185, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825642872, "dur":563, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825643436, "dur":2684, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825646134, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1718264825646220, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825661231, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1718264825662398, "dur":25809, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825688238, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825690560, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825690655, "dur":4907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825695646, "dur":8124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Mirror.Authenticators.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825703798, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825703907, "dur":3405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825707336, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825707483, "dur":3192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825710704, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825710778, "dur":3393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825714194, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825714349, "dur":25678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825740056, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825740128, "dur":11374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825751527, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825751696, "dur":3383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825755115, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718264825755249, "dur":13493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825768865, "dur":4860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718264825773764, "dur":9792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1718264825783630, "dur":5682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1718264825789342, "dur":354797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825638731, "dur":4145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825642878, "dur":462, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825643340, "dur":2794, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825646164, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825648542, "dur":2131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1718264825650717, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825651691, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1718264825653578, "dur":1888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825655505, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825655964, "dur":4388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825660434, "dur":29121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825689583, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825689684, "dur":2841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825692561, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825692697, "dur":2841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825695621, "dur":8330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Mirror.Examples.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825703984, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825704113, "dur":3262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825707410, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825707492, "dur":4048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825711577, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825711683, "dur":3590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825715363, "dur":25795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825741181, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825741271, "dur":11218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825752519, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825752593, "dur":13261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825765884, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825765967, "dur":3405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825769395, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718264825769476, "dur":5038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718264825774542, "dur":14382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1718264825788978, "dur":2997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1718264825792006, "dur":352153, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718264825638771, "dur":4110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718264825642884, "dur":529, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718264825643414, "dur":2713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718264825646157, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718264825647965, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1718264825651128, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1718264825653160, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1718264825654987, "dur":151825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718264825806836, "dur":337319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825638816, "dur":4072, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825642891, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825643083, "dur":3034, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825646122, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Games/unity/zombie/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1718264825646959, "dur":44848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1718264825691836, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825691963, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825695325, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825695427, "dur":8325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825703837, "dur":3178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Mirror.Components.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825707042, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825707198, "dur":2964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825710187, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825710263, "dur":3884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825714237, "dur":25494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825739761, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825739838, "dur":3191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825743055, "dur":7710, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825750798, "dur":3741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825754579, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718264825754678, "dur":13583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825768353, "dur":5056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718264825773489, "dur":370556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825638844, "dur":4051, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825642895, "dur":3220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825646183, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825658061, "dur":2213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1718264825660335, "dur":29658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825690019, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825690127, "dur":3564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825693732, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825693909, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825696527, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825696609, "dur":8040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/SimpleWebTransport.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825704671, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825704780, "dur":3612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Mirror.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825708418, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825708491, "dur":4205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825712733, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825712837, "dur":3096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825715962, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825716056, "dur":25882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825741967, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825742067, "dur":11388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825753482, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825753551, "dur":13263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825766850, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825766919, "dur":5198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825772251, "dur":3201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718264825775485, "dur":6431, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718264825781998, "dur":3483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1718264825785654, "dur":5233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1718264825790959, "dur":353177, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825638879, "dur":4024, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825642904, "dur":3225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825646130, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1718264825646204, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825658797, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1718264825660989, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825661127, "dur":29071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825690223, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825690301, "dur":4650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825695043, "dur":8515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825703625, "dur":3176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825706887, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825710102, "dur":3602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825713781, "dur":25412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825739226, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825739333, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825742293, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825742440, "dur":11345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825753814, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825753943, "dur":13600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825767625, "dur":5582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825773232, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718264825773318, "dur":2472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718264825775826, "dur":9830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1718264825785704, "dur":7171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Games/unity/zombie/zombie_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1718264825792911, "dur":351256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718264826152481, "dur":2994, "ph":"X", "name": "ProfilerWriteOutput" }
+,
